@@ -10,9 +10,7 @@ No build system or local dependencies. And Mithril is loaded from a CDN.
 
 To run, download the `src` folder, then open `index.html` (even just directly from the filesystem) in a modern browser.
 
-For the impatient here's a [Flems version](http://yep.it/xgpsuj) _(Note: if you get only a spinner, try opening that link in Chrome.)_
-
-(For Flems itself, see this [Gitter OP](https://gitter.im/mithriljs/mithril.js?at=594a238dad5b0377046ed0cf) by Rasmus)
+For the impatient here's a [Flems version](http://yep.it/xgpsuj) _(Note: if you get only a spinner, try opening that link in Chrome. If some content-links sucn as in "news" don't open in-situ ... it may be due how Flems works; they should open OK in a new tab. For Flems itself, see this [Gitter OP](https://gitter.im/mithriljs/mithril.js?at=594a238dad5b0377046ed0cf) by Rasmus)_
 
 ## Spec
 
