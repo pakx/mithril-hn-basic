@@ -1,0 +1,18 @@
+.logo {height:16px;}
+.app-header a {margin:0px 2px;}
+.active {background-color:yellow;font-weight:bold;}
+.annotations > * {display:inline-block;}
+.post-points {margin-right:0.5em;}
+.time-ago {margin-left:0.5em;}
+.label-comments {font-weight:bold;margin:5px 0px;}
+.label-comments-none {color:gray;margin:5px 0px;}
+.comment {border:1px solid white;margin-left:5px;position:relative;top:-1.5em;width:100%;}
+.comment > .annotations {background-color: #eaecee;padding:3px;margin:0px;}
+
+/* Tree-structure CSS adapted from https://gist.github.com/dylancwood/7368914 */
+ul.tree, ul.tree ul {list-style: none;margin: 0;padding: 0;} 
+ul.tree ul {margin-left: 10px;}
+ul.tree li {border-left:1px solid rgb(100,100,100);line-height: 20px;margin: 0;padding: 0 7px;}
+ul.tree li:last-child {border-left:none;}
+ul.tree li:before {border-bottom:1px solid rgb(100,100,100);color:white;content:"";display:inline-block;height:1em;left:-7px;position:relative;top:-0.3em;width:12px;}
+ul.tree li:last-child:before {border-left:1px solid rgb(100,100,100);}

@@ -1,0 +1,5 @@
+{
+  "short_name": "Mithril-HN"
+  , "name": "Mithril Hacker News App"
+  , "start_url": "/news/1?utm_source=homescreen"
+}
